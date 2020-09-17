@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">种草音乐</string>
+    <string name="time">0:0 / 0:0</string>
+    <string name="emPicDesc">专辑图</string>
+    <string name="nav_header_desc">描述</string>
+    <string name="nav_header_title">种草音乐</string>
+    <string name="nav_header_subtitle">fstack</string>
+    <string name="music_list_btn">播放列表</string>
+    <string name="about">关于</string>
+    <string name="refresh">手动刷新</string>
+</resources>
